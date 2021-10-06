@@ -14,4 +14,9 @@ Note: This program was written during my first year of studies, thus code style 
   <a href="https://ibb.co/ZfCZj7y"><img src="https://i.ibb.co/grCn2hs/bonus.png" alt="bonus" border="0" /></a>
 
 ## AI Mode
+  Inspired by the process of natural selection, 200 Mario entities are spawned with randomly generated "brains". The Mario which performs the best is selected as the "fittest" and asked to reproduce more Marios with a simmilar yet not identical Brain.... after a few generations, the mutations keep evolving the marios untill they play the perfect game ;) 
+  
+<a href="https://ibb.co/kg0BBDH"><img src="https://i.ibb.co/cct338g/3.png" alt="3" border="0" /></a>
+<a href="https://ibb.co/MBSZ5hb"><img src="https://i.ibb.co/DrWzgbN/4.png" alt="4" border="0" /></a>
+<a href="https://ibb.co/Zx0GjyR"><img src="https://i.ibb.co/qpv7SbL/5.png" alt="5" border="0" /></a>
 
