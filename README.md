@@ -10,6 +10,8 @@ Note: This program was written during my first year of studies, thus code style 
 ## Normal-Mode
 <a href="https://ibb.co/Tr5qdWH"><img src="https://i.ibb.co/jHFZsJL/2.png" alt="2" border="0" /></a>
 <a href="https://ibb.co/vhQKj4R"><img src="https://i.ibb.co/m0XMc5g/22PNG.png" alt="22PNG" border="0" /></a>
+  ### Bonus
+  <a href="https://ibb.co/ZfCZj7y"><img src="https://i.ibb.co/grCn2hs/bonus.png" alt="bonus" border="0" /></a>
 
 ## AI Mode
 
